@@ -2,7 +2,7 @@
 ##### Email: murali.tedla@queensu.ca
 ##### LinkedIN: www.linkedin.com/in/Murali-Tedla
 ##### Kaggle: https://www.kaggle.com/tmgnadh/kernels
-##### GITHUB: 
+##### GITHUB: https://github.com/MTgit1119/About-me
 
 ### PROFESSIONAL SUMMARY
 3+ years of experience in business and data analysis with master's degree in Management Analytics.
@@ -13,26 +13,23 @@ Master of Management Analytics, Smith School of Business, Queen’s University, 
 Certificate in Data Analytics (Cont. Education), Ryerson University
 
 Bachelor of Technology, Jawaharlal Nehru Technological University
-* Specialized in Biomedical Engineering
 
 ### SPECIALIZED TRAINING AND CERTIFICATIONS
 AWS Cloud Practitioner, Udemy - 2019
 
 SAS Certified Predictive Modeler Using SAS Enterprise Miner 14, SAS - 2019
 
-SQL Summer Camp, Kaggle - 2019
-
 Lean Six Sigma Yellow Belt, Royal Bank of Canada - 2018
 
 Business Analysis, Justwin IT Solutions - 2017
 
 TECHNICAL SKILLS
-* R Programming, Python
-* Tableau, Looker, SAP Lumira
-* Excel, VBA, SQL
+* R Programming
+* Python
+* Tableau
+* Excel, SQL
 * SAS (Enterprise Miner)
-* Azure Databricks, AWS
-* Statistical Analytics
+* Databricks
 
 		
 PROFESSIONAL SKILLS
@@ -46,27 +43,10 @@ PROFESSIONAL SKILLS
 
 ### PROFESSIONAL EXPERIENCE
 Business and Data Analyst, Kranthiya, Toronto 			2019 – 2020
-- Contracted to conduct business process analysis and identify key issues, gaps and needs for business improvement 
-- Produced, validated and distributed accurate and complete reports in a timely manner for senior management
-- Implemented data integration and transformation from multiple sources to develop desired data for further analysis
-- Supported Marketing analytics projects such as campaign analysis using regression analysis, segmentation etc. by producing insights and reports on provided business issues
-- Developed business templates, documented analysis techniques and prepared job-aids to improve business performance
-Tools: Excel, python, Sklearn, SQL, Tableau
 
 Business and Data Analyst, Royal Bank of Canada, Toronto, ON	2018 – 2018
-- Contracted to conduct business process analysis and identify key issues, gaps and needs for performance improvement 
-- Produced, validated and distributed accurate and complete reports in a timely manner. Investigated and responded to inquiries from senior management
-- Identified opportunities to improve process efficiencies and worked with FSS management to implement effective solutions that improve processes and operational excellence
-- Reduced process time of report generation from 4 hours to 1 hour while using Lean Six Sigma methodologies 
-- Conducted scope analysis and As-is analysis for ongoing and upcoming phases of projects to assist project leaders in implementing projects
-- Conducted employee engagement surveys, process and presented the insights to senior management 
-Tools: Excel, Coupa, PEGA, Tableau, VBA, SQL, MS Dynamics GP, Concur 
 
 Data Analyst, Client – Yellow Pages, Toronto 			2017 – 2018
-- Generating actionable insights and business intelligence to support business needs
-- Data analysis and visualization through SQL and Tableau
-- Generate daily, weekly and or project specific time-based reports to support management in decision making
-Tools: Excel, SharePoint, SQL, Tableau
 
 Service Technologist, Prism Medical, Vancouver, BC		2016 – 2017
 
